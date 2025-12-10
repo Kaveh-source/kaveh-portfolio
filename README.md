@@ -11,7 +11,7 @@ Supervised learning project analyzing lifestyle, physical health, and biometric 
 
 ---
 
-2. Capstone – Product Demand Forecasting (Skandia Elevator)
+### 2. Capstone – Product Demand Forecasting (Skandia Elevator)
 
 Industry capstone project with Skandia Elevator (grain handling equipment manufacturer).  
 I led the **Product Demand Forecasting** track.
