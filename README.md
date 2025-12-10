@@ -8,7 +8,7 @@ Supervised learning project analyzing lifestyle, physical health, and biometric 
 **Tools:** Python, Pandas, scikit-learn, Matplotlib  
 **Business value:** supports early detection and prevention initiatives in healthcare.
 
-
+Code: [`data-mining-project.py`](./data-mining-project.py)
 ---
 
 ### 2. Capstone – Product Demand Forecasting (Skandia Elevator)
