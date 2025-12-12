@@ -23,3 +23,13 @@ I led the **Product Demand Forecasting** track.
 **Tools:** Python, Pandas, Matplotlib, Statsmodels.
 
 **Code / folder:** [`capstone-skandia-demand-forecasting`](./capstone-skandia-demand-forecasting)
+
+
+### 3. Golf Tournament – Top 10 Prediction
+
+Machine learning project predicting the top 10 players in a PGA golf tournament after the first two rounds using historical round-by-round performance data.
+
+***Key techniques:*** feature engineering from shot/round data, classification modeling, evaluation on held-out tournaments.
+
+***Code / folder:*** `golf-top10-prediction`
+
