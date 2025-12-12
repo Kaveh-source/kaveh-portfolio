@@ -31,5 +31,6 @@ Machine learning project predicting the top 10 players in a PGA golf tournament 
 
 ***Key techniques:*** feature engineering from shot/round data, classification modeling, evaluation on held-out tournaments.
 
-***Code / folder:*** `golf-top10-prediction`
+***Tools:*** Python, PySpark, Spark MLlib (Random Forest & other classifiers)
 
+***Code / folder:*** [golf-top10-prediction](golf-top10-prediction)
