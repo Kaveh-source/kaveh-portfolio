@@ -42,3 +42,10 @@ perceptions of IT services and present an executive-level insight to the CIO.
 
 ##Code / folder: [miso-survey-data-storytelling](miso-survey-data-storytelling)
 
+### 5. IMDb Top 500 Movie Data Enrichment (Data Wrangling)
+
+End-to-end data wrangling project for a movie streaming client, scraping IMDb
+for top-voted movies (2018–2020), cleaning and transforming the data, and
+enriching the client’s internal movie catalog.
+
+**Code / folder:** [imdb-top500-enrichment](imdb-top500-enrichment)
