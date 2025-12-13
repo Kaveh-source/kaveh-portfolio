@@ -34,3 +34,11 @@ Machine learning project predicting the top 10 players in a PGA golf tournament 
 **Tools:** Python, PySpark, Spark MLlib (Random Forest & other classifiers)
 
 **Code / folder:** [golf-top10-prediction](golf-top10-prediction)
+
+### 4. Insights from the Analysis of MISO Survey Results  
+
+Data storytelling project using MISO survey data (2018–2024) to analyze faculty
+perceptions of IT services and present an executive-level insight to the CIO.
+
+##Code / folder: [miso-survey-data-storytelling](miso-survey-data-storytelling)
+
